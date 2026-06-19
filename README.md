@@ -125,6 +125,7 @@
     <li>Live book availability tracker</li>
     <li>Mobile responsive design</li>
     <li>User profiles with avatars</li>
+    <li>Smooth scroll and animations</li>
   </ul>
 
   <footer>
