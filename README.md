@@ -8,7 +8,7 @@
 <body>
 
   <h1>📚 BookHive – Library Management System</h1>
-  <p><a href="https://bookhivelms.infinityfreeapp.com/" target="_blank">Visit BookHive – Library Management System</a></p>
+  <p><a href="https:// bookhivelms.infinityfree.io/" target="_blank">Visit BookHive – Library Management System</a></p>
   <p>For the best experience, please view this page on a desktop device.</p>
 
   <p>A modern, lightweight, PHP-based library system with 3D UI elements using Spline.</p>
